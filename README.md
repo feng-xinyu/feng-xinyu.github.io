@@ -1,2 +1,2 @@
-# feng-xinyu..github.io
+# feng-xinyu.github.io
 Homepage of Xinyu Feng
