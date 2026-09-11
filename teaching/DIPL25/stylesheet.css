@@ -1,0 +1,23 @@
+body { font-family:      times new roman;
+       color:            black;
+       margin-left:      1em;
+       margin-right:     2em;
+       width:       81%;
+       background-color: white;
+     }
+
+a:link {
+  color: #003399;
+  text-decoration: none;
+  font-weight: bold
+}
+
+a:visited {
+  color: #003399;
+  text-decoration: none;
+  font-weight: bold
+}
+
+a:hover {
+  text-decoration: underline
+}
